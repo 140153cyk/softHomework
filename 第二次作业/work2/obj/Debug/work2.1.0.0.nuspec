@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>work2</id>
+    <version>1.0.0</version>
+    <authors>work2</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\14025\source\repos\第二次作业\work2\bin\Debug\netcoreapp3.1\work2.runtimeconfig.json" target="lib\netcoreapp3.1\work2.runtimeconfig.json" />
+    <file src="C:\Users\14025\source\repos\第二次作业\work2\bin\Debug\netcoreapp3.1\work2.dll" target="lib\netcoreapp3.1\work2.dll" />
+  </files>
+</package>
