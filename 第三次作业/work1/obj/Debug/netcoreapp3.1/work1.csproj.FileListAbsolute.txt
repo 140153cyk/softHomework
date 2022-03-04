@@ -1,0 +1,14 @@
+C:\Users\14025\source\repos\第三次作业\work1\obj\Debug\netcoreapp3.1\work1.csproj.AssemblyReference.cache
+C:\Users\14025\source\repos\第三次作业\work1\obj\Debug\netcoreapp3.1\work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14025\source\repos\第三次作业\work1\obj\Debug\netcoreapp3.1\work1.AssemblyInfoInputs.cache
+C:\Users\14025\source\repos\第三次作业\work1\obj\Debug\netcoreapp3.1\work1.AssemblyInfo.cs
+C:\Users\14025\source\repos\第三次作业\work1\obj\Debug\netcoreapp3.1\work1.csproj.CoreCompileInputs.cache
+C:\Users\14025\source\repos\第三次作业\work1\bin\Debug\netcoreapp3.1\work1.exe
+C:\Users\14025\source\repos\第三次作业\work1\bin\Debug\netcoreapp3.1\work1.deps.json
+C:\Users\14025\source\repos\第三次作业\work1\bin\Debug\netcoreapp3.1\work1.runtimeconfig.json
+C:\Users\14025\source\repos\第三次作业\work1\bin\Debug\netcoreapp3.1\work1.runtimeconfig.dev.json
+C:\Users\14025\source\repos\第三次作业\work1\bin\Debug\netcoreapp3.1\work1.dll
+C:\Users\14025\source\repos\第三次作业\work1\bin\Debug\netcoreapp3.1\work1.pdb
+C:\Users\14025\source\repos\第三次作业\work1\obj\Debug\netcoreapp3.1\work1.dll
+C:\Users\14025\source\repos\第三次作业\work1\obj\Debug\netcoreapp3.1\work1.pdb
+C:\Users\14025\source\repos\第三次作业\work1\obj\Debug\netcoreapp3.1\work1.genruntimeconfig.cache
