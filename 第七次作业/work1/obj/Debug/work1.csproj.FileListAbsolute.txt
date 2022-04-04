@@ -1,0 +1,10 @@
+C:\Users\14025\source\repos\第七次作业\work1\bin\Debug\work1.exe.config
+C:\Users\14025\source\repos\第七次作业\work1\bin\Debug\work1.exe
+C:\Users\14025\source\repos\第七次作业\work1\bin\Debug\work1.pdb
+C:\Users\14025\source\repos\第七次作业\work1\obj\Debug\work1.csproj.AssemblyReference.cache
+C:\Users\14025\source\repos\第七次作业\work1\obj\Debug\work1.Form1.resources
+C:\Users\14025\source\repos\第七次作业\work1\obj\Debug\work1.Properties.Resources.resources
+C:\Users\14025\source\repos\第七次作业\work1\obj\Debug\work1.csproj.GenerateResource.cache
+C:\Users\14025\source\repos\第七次作业\work1\obj\Debug\work1.csproj.CoreCompileInputs.cache
+C:\Users\14025\source\repos\第七次作业\work1\obj\Debug\work1.exe
+C:\Users\14025\source\repos\第七次作业\work1\obj\Debug\work1.pdb
