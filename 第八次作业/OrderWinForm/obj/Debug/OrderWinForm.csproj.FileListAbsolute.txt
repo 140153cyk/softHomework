@@ -1,0 +1,15 @@
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\bin\Debug\OrderWinForm.exe.config
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\bin\Debug\OrderWinForm.exe
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\bin\Debug\OrderWinForm.pdb
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\obj\Debug\OrderWinForm.csproj.AssemblyReference.cache
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\obj\Debug\OrderWinForm.Form1.resources
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\obj\Debug\OrderWinForm.Properties.Resources.resources
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\obj\Debug\OrderWinForm.csproj.GenerateResource.cache
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\obj\Debug\OrderWinForm.csproj.CoreCompileInputs.cache
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\obj\Debug\OrderWinForm.exe
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\obj\Debug\OrderWinForm.pdb
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\bin\Debug\OrderPro.exe
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\bin\Debug\OrderPro.pdb
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\bin\Debug\OrderPro.exe.config
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\obj\Debug\OrderWinForm.csproj.CopyComplete
+C:\Users\14025\Documents\GitHub\第六次作业\OrderWinForm\obj\Debug\OrderWinForm.ManageOrderForm.resources

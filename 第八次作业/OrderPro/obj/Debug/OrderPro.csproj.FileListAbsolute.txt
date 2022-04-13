@@ -1,0 +1,7 @@
+C:\Users\14025\Documents\GitHub\第六次作业\OrderPro\obj\Debug\OrderPro.csproj.AssemblyReference.cache
+C:\Users\14025\Documents\GitHub\第六次作业\OrderPro\obj\Debug\OrderPro.csproj.CoreCompileInputs.cache
+C:\Users\14025\Documents\GitHub\第六次作业\OrderPro\bin\Debug\OrderPro.exe.config
+C:\Users\14025\Documents\GitHub\第六次作业\OrderPro\bin\Debug\OrderPro.exe
+C:\Users\14025\Documents\GitHub\第六次作业\OrderPro\bin\Debug\OrderPro.pdb
+C:\Users\14025\Documents\GitHub\第六次作业\OrderPro\obj\Debug\OrderPro.exe
+C:\Users\14025\Documents\GitHub\第六次作业\OrderPro\obj\Debug\OrderPro.pdb
