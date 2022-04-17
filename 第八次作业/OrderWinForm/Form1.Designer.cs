@@ -75,9 +75,9 @@ namespace OrderWinForm
             // 
             this.panelAll.Controls.Add(this.panel1);
             this.panelAll.Location = new System.Drawing.Point(0, 0);
-            this.panelAll.Margin = new System.Windows.Forms.Padding(10);
+            this.panelAll.Margin = new System.Windows.Forms.Padding(20, 20, 20, 20);
             this.panelAll.Name = "panelAll";
-            this.panelAll.Size = new System.Drawing.Size(686, 468);
+            this.panelAll.Size = new System.Drawing.Size(1372, 936);
             this.panelAll.TabIndex = 0;
             this.panelAll.Paint += new System.Windows.Forms.PaintEventHandler(this.panelDisplay_Paint);
             // 
@@ -88,20 +88,20 @@ namespace OrderWinForm
             this.panel1.Controls.Add(this.panelQuery);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(686, 468);
+            this.panel1.Size = new System.Drawing.Size(1372, 936);
             this.panel1.TabIndex = 1;
             // 
             // panelOrder
             // 
             this.panelOrder.Controls.Add(this.orderGridView);
             this.panelOrder.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelOrder.Location = new System.Drawing.Point(0, 128);
-            this.panelOrder.Margin = new System.Windows.Forms.Padding(2);
+            this.panelOrder.Location = new System.Drawing.Point(0, 256);
+            this.panelOrder.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelOrder.Name = "panelOrder";
-            this.panelOrder.Padding = new System.Windows.Forms.Padding(10);
-            this.panelOrder.Size = new System.Drawing.Size(686, 160);
+            this.panelOrder.Padding = new System.Windows.Forms.Padding(20, 20, 20, 20);
+            this.panelOrder.Size = new System.Drawing.Size(1372, 320);
             this.panelOrder.TabIndex = 2;
             // 
             // orderGridView
@@ -116,12 +116,12 @@ namespace OrderWinForm
             this.orderGridView.DataSource = this.orderBindingSource;
             this.orderGridView.Dock = System.Windows.Forms.DockStyle.Fill;
             this.orderGridView.GridColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.orderGridView.Location = new System.Drawing.Point(10, 10);
-            this.orderGridView.Margin = new System.Windows.Forms.Padding(2);
+            this.orderGridView.Location = new System.Drawing.Point(20, 20);
+            this.orderGridView.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.orderGridView.Name = "orderGridView";
             this.orderGridView.RowHeadersWidth = 10;
             this.orderGridView.RowTemplate.Height = 37;
-            this.orderGridView.Size = new System.Drawing.Size(666, 140);
+            this.orderGridView.Size = new System.Drawing.Size(1332, 280);
             this.orderGridView.TabIndex = 0;
             // 
             // idDataGridViewTextBoxColumn
@@ -164,11 +164,11 @@ namespace OrderWinForm
             // 
             this.panelDetail.Controls.Add(this.detailGridView);
             this.panelDetail.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panelDetail.Location = new System.Drawing.Point(0, 288);
-            this.panelDetail.Margin = new System.Windows.Forms.Padding(2);
+            this.panelDetail.Location = new System.Drawing.Point(0, 576);
+            this.panelDetail.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelDetail.Name = "panelDetail";
-            this.panelDetail.Padding = new System.Windows.Forms.Padding(10);
-            this.panelDetail.Size = new System.Drawing.Size(686, 180);
+            this.panelDetail.Padding = new System.Windows.Forms.Padding(20, 20, 20, 20);
+            this.panelDetail.Size = new System.Drawing.Size(1372, 360);
             this.panelDetail.TabIndex = 1;
             // 
             // detailGridView
@@ -181,12 +181,12 @@ namespace OrderWinForm
             this.totalPriceDataGridViewTextBoxColumn});
             this.detailGridView.DataSource = this.orderDetailBindingSource;
             this.detailGridView.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.detailGridView.Location = new System.Drawing.Point(10, 10);
-            this.detailGridView.Margin = new System.Windows.Forms.Padding(2);
+            this.detailGridView.Location = new System.Drawing.Point(20, 20);
+            this.detailGridView.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.detailGridView.Name = "detailGridView";
             this.detailGridView.RowHeadersWidth = 10;
             this.detailGridView.RowTemplate.Height = 37;
-            this.detailGridView.Size = new System.Drawing.Size(666, 160);
+            this.detailGridView.Size = new System.Drawing.Size(1332, 320);
             this.detailGridView.TabIndex = 0;
             // 
             // productDataGridViewTextBoxColumn
@@ -224,10 +224,10 @@ namespace OrderWinForm
             this.panelQuery.Controls.Add(this.menuStrip1);
             this.panelQuery.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelQuery.Location = new System.Drawing.Point(0, 0);
-            this.panelQuery.Margin = new System.Windows.Forms.Padding(2);
+            this.panelQuery.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelQuery.Name = "panelQuery";
-            this.panelQuery.Padding = new System.Windows.Forms.Padding(15);
-            this.panelQuery.Size = new System.Drawing.Size(686, 128);
+            this.panelQuery.Padding = new System.Windows.Forms.Padding(30, 30, 30, 30);
+            this.panelQuery.Size = new System.Drawing.Size(1372, 256);
             this.panelQuery.TabIndex = 0;
             // 
             // flowLayoutPanel1
@@ -239,43 +239,43 @@ namespace OrderWinForm
             this.flowLayoutPanel1.Controls.Add(this.updateButton);
             this.flowLayoutPanel1.Controls.Add(this.addButton);
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(15, 40);
-            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(2);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(30, 78);
+            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(10);
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(656, 73);
+            this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(20, 20, 20, 20);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(1312, 148);
             this.flowLayoutPanel1.TabIndex = 0;
             // 
             // listQueryWay
             // 
             this.listQueryWay.FormattingEnabled = true;
-            this.listQueryWay.ItemHeight = 12;
+            this.listQueryWay.ItemHeight = 24;
             this.listQueryWay.Items.AddRange(new object[] {
             "客户姓名",
             "订单编号",
             "货物名称",
             "总金额"});
-            this.listQueryWay.Location = new System.Drawing.Point(12, 12);
-            this.listQueryWay.Margin = new System.Windows.Forms.Padding(2);
+            this.listQueryWay.Location = new System.Drawing.Point(24, 24);
+            this.listQueryWay.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.listQueryWay.Name = "listQueryWay";
-            this.listQueryWay.Size = new System.Drawing.Size(75, 28);
+            this.listQueryWay.Size = new System.Drawing.Size(146, 52);
             this.listQueryWay.TabIndex = 0;
             // 
             // textQuery
             // 
             this.textQuery.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textQuery.Location = new System.Drawing.Point(104, 18);
-            this.textQuery.Margin = new System.Windows.Forms.Padding(15, 8, 10, 10);
+            this.textQuery.Location = new System.Drawing.Point(204, 36);
+            this.textQuery.Margin = new System.Windows.Forms.Padding(30, 16, 20, 20);
             this.textQuery.Name = "textQuery";
-            this.textQuery.Size = new System.Drawing.Size(105, 21);
+            this.textQuery.Size = new System.Drawing.Size(206, 35);
             this.textQuery.TabIndex = 1;
             // 
             // queryButton
             // 
-            this.queryButton.Location = new System.Drawing.Point(224, 15);
-            this.queryButton.Margin = new System.Windows.Forms.Padding(5);
+            this.queryButton.Location = new System.Drawing.Point(440, 30);
+            this.queryButton.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.queryButton.Name = "queryButton";
-            this.queryButton.Size = new System.Drawing.Size(80, 20);
+            this.queryButton.Size = new System.Drawing.Size(160, 40);
             this.queryButton.TabIndex = 2;
             this.queryButton.Text = "查询订单";
             this.queryButton.UseVisualStyleBackColor = true;
@@ -283,10 +283,10 @@ namespace OrderWinForm
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(314, 15);
-            this.button1.Margin = new System.Windows.Forms.Padding(5);
+            this.button1.Location = new System.Drawing.Point(620, 30);
+            this.button1.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(80, 20);
+            this.button1.Size = new System.Drawing.Size(160, 40);
             this.button1.TabIndex = 3;
             this.button1.Text = "删除订单";
             this.button1.UseVisualStyleBackColor = true;
@@ -294,10 +294,10 @@ namespace OrderWinForm
             // 
             // updateButton
             // 
-            this.updateButton.Location = new System.Drawing.Point(404, 15);
-            this.updateButton.Margin = new System.Windows.Forms.Padding(5);
+            this.updateButton.Location = new System.Drawing.Point(800, 30);
+            this.updateButton.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.updateButton.Name = "updateButton";
-            this.updateButton.Size = new System.Drawing.Size(80, 20);
+            this.updateButton.Size = new System.Drawing.Size(160, 40);
             this.updateButton.TabIndex = 4;
             this.updateButton.Text = "修改订单";
             this.updateButton.UseVisualStyleBackColor = true;
@@ -305,10 +305,10 @@ namespace OrderWinForm
             // 
             // addButton
             // 
-            this.addButton.Location = new System.Drawing.Point(494, 15);
-            this.addButton.Margin = new System.Windows.Forms.Padding(5);
+            this.addButton.Location = new System.Drawing.Point(980, 30);
+            this.addButton.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
             this.addButton.Name = "addButton";
-            this.addButton.Size = new System.Drawing.Size(80, 20);
+            this.addButton.Size = new System.Drawing.Size(160, 40);
             this.addButton.TabIndex = 5;
             this.addButton.Text = "添加订单";
             this.addButton.UseVisualStyleBackColor = true;
@@ -317,12 +317,14 @@ namespace OrderWinForm
             // menuStrip1
             // 
             this.menuStrip1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.menuStrip1.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(32, 32);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.ioToolStripMenuItem,
             this.editToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(15, 15);
+            this.menuStrip1.Location = new System.Drawing.Point(30, 30);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(656, 25);
+            this.menuStrip1.Size = new System.Drawing.Size(1312, 48);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -332,38 +334,38 @@ namespace OrderWinForm
             this.importToolStripMenuItem,
             this.exportToolStripMenuItem});
             this.ioToolStripMenuItem.Name = "ioToolStripMenuItem";
-            this.ioToolStripMenuItem.Size = new System.Drawing.Size(68, 21);
+            this.ioToolStripMenuItem.Size = new System.Drawing.Size(130, 35);
             this.ioToolStripMenuItem.Text = "导入导出";
             // 
             // importToolStripMenuItem
             // 
             this.importToolStripMenuItem.Name = "importToolStripMenuItem";
-            this.importToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.importToolStripMenuItem.Size = new System.Drawing.Size(195, 44);
             this.importToolStripMenuItem.Text = "导入";
             this.importToolStripMenuItem.Click += new System.EventHandler(this.importToolStripMenuItem_Click);
             // 
             // exportToolStripMenuItem
             // 
             this.exportToolStripMenuItem.Name = "exportToolStripMenuItem";
-            this.exportToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.exportToolStripMenuItem.Size = new System.Drawing.Size(195, 44);
             this.exportToolStripMenuItem.Text = "导出";
             this.exportToolStripMenuItem.Click += new System.EventHandler(this.exportToolStripMenuItem_Click);
             // 
             // editToolStripMenuItem
             // 
             this.editToolStripMenuItem.Name = "editToolStripMenuItem";
-            this.editToolStripMenuItem.Size = new System.Drawing.Size(44, 21);
+            this.editToolStripMenuItem.Size = new System.Drawing.Size(82, 35);
             this.editToolStripMenuItem.Text = "编辑";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(642, 390);
+            this.ClientSize = new System.Drawing.Size(1284, 780);
             this.Controls.Add(this.panelAll);
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.panelAll.ResumeLayout(false);

@@ -6136,11 +6136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\14025\\source\\repos\\第五次 作业\\OrderServiceTest\\OrderServiceTest.csproj",
+      "projectUniqueName": "C:\\Users\\14025\\Documents\\GitHub\\第六次作业\\OrderServiceTest\\OrderServiceTest.csproj",
       "projectName": "OrderServiceTest",
-      "projectPath": "C:\\Users\\14025\\source\\repos\\第五次 作业\\OrderServiceTest\\OrderServiceTest.csproj",
+      "projectPath": "C:\\Users\\14025\\Documents\\GitHub\\第六次作业\\OrderServiceTest\\OrderServiceTest.csproj",
       "packagesPath": "C:\\Users\\14025\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\14025\\source\\repos\\第五次 作业\\OrderServiceTest\\obj\\",
+      "outputPath": "C:\\Users\\14025\\Documents\\GitHub\\第六次作业\\OrderServiceTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6161,8 +6161,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\14025\\source\\repos\\第五次 作业\\Work1\\Work1.csproj": {
-              "projectPath": "C:\\Users\\14025\\source\\repos\\第五次 作业\\Work1\\Work1.csproj"
+            "C:\\Users\\14025\\Documents\\GitHub\\第六次作业\\Work1\\Work1.csproj": {
+              "projectPath": "C:\\Users\\14025\\Documents\\GitHub\\第六次作业\\Work1\\Work1.csproj"
             }
           }
         }
