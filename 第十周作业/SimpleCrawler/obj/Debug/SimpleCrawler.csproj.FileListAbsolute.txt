@@ -1,0 +1,7 @@
+C:\Users\14025\source\repos\第九周作业\SimpleCrawler\bin\Debug\SimpleCrawler.exe.config
+C:\Users\14025\source\repos\第九周作业\SimpleCrawler\bin\Debug\SimpleCrawler.exe
+C:\Users\14025\source\repos\第九周作业\SimpleCrawler\bin\Debug\SimpleCrawler.pdb
+C:\Users\14025\source\repos\第九周作业\SimpleCrawler\obj\Debug\SimpleCrawler.csproj.CoreCompileInputs.cache
+C:\Users\14025\source\repos\第九周作业\SimpleCrawler\obj\Debug\SimpleCrawler.exe
+C:\Users\14025\source\repos\第九周作业\SimpleCrawler\obj\Debug\SimpleCrawler.pdb
+C:\Users\14025\source\repos\第九周作业\SimpleCrawler\obj\Debug\SimpleCrawler.csproj.AssemblyReference.cache
