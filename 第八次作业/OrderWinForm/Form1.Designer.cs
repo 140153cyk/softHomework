@@ -75,7 +75,7 @@ namespace OrderWinForm
             // 
             this.panelAll.Controls.Add(this.panel1);
             this.panelAll.Location = new System.Drawing.Point(0, 0);
-            this.panelAll.Margin = new System.Windows.Forms.Padding(20, 20, 20, 20);
+            this.panelAll.Margin = new System.Windows.Forms.Padding(20);
             this.panelAll.Name = "panelAll";
             this.panelAll.Size = new System.Drawing.Size(1372, 936);
             this.panelAll.TabIndex = 0;
@@ -88,7 +88,7 @@ namespace OrderWinForm
             this.panel1.Controls.Add(this.panelQuery);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1372, 936);
             this.panel1.TabIndex = 1;
@@ -98,9 +98,9 @@ namespace OrderWinForm
             this.panelOrder.Controls.Add(this.orderGridView);
             this.panelOrder.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelOrder.Location = new System.Drawing.Point(0, 256);
-            this.panelOrder.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelOrder.Margin = new System.Windows.Forms.Padding(4);
             this.panelOrder.Name = "panelOrder";
-            this.panelOrder.Padding = new System.Windows.Forms.Padding(20, 20, 20, 20);
+            this.panelOrder.Padding = new System.Windows.Forms.Padding(20);
             this.panelOrder.Size = new System.Drawing.Size(1372, 320);
             this.panelOrder.TabIndex = 2;
             // 
@@ -117,7 +117,7 @@ namespace OrderWinForm
             this.orderGridView.Dock = System.Windows.Forms.DockStyle.Fill;
             this.orderGridView.GridColor = System.Drawing.SystemColors.ControlDarkDark;
             this.orderGridView.Location = new System.Drawing.Point(20, 20);
-            this.orderGridView.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.orderGridView.Margin = new System.Windows.Forms.Padding(4);
             this.orderGridView.Name = "orderGridView";
             this.orderGridView.RowHeadersWidth = 10;
             this.orderGridView.RowTemplate.Height = 37;
@@ -165,9 +165,9 @@ namespace OrderWinForm
             this.panelDetail.Controls.Add(this.detailGridView);
             this.panelDetail.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panelDetail.Location = new System.Drawing.Point(0, 576);
-            this.panelDetail.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelDetail.Margin = new System.Windows.Forms.Padding(4);
             this.panelDetail.Name = "panelDetail";
-            this.panelDetail.Padding = new System.Windows.Forms.Padding(20, 20, 20, 20);
+            this.panelDetail.Padding = new System.Windows.Forms.Padding(20);
             this.panelDetail.Size = new System.Drawing.Size(1372, 360);
             this.panelDetail.TabIndex = 1;
             // 
@@ -182,7 +182,7 @@ namespace OrderWinForm
             this.detailGridView.DataSource = this.orderDetailBindingSource;
             this.detailGridView.Dock = System.Windows.Forms.DockStyle.Fill;
             this.detailGridView.Location = new System.Drawing.Point(20, 20);
-            this.detailGridView.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.detailGridView.Margin = new System.Windows.Forms.Padding(4);
             this.detailGridView.Name = "detailGridView";
             this.detailGridView.RowHeadersWidth = 10;
             this.detailGridView.RowTemplate.Height = 37;
@@ -224,9 +224,9 @@ namespace OrderWinForm
             this.panelQuery.Controls.Add(this.menuStrip1);
             this.panelQuery.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelQuery.Location = new System.Drawing.Point(0, 0);
-            this.panelQuery.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelQuery.Margin = new System.Windows.Forms.Padding(4);
             this.panelQuery.Name = "panelQuery";
-            this.panelQuery.Padding = new System.Windows.Forms.Padding(30, 30, 30, 30);
+            this.panelQuery.Padding = new System.Windows.Forms.Padding(30);
             this.panelQuery.Size = new System.Drawing.Size(1372, 256);
             this.panelQuery.TabIndex = 0;
             // 
@@ -240,9 +240,9 @@ namespace OrderWinForm
             this.flowLayoutPanel1.Controls.Add(this.addButton);
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(30, 78);
-            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(20, 20, 20, 20);
+            this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(20);
             this.flowLayoutPanel1.Size = new System.Drawing.Size(1312, 148);
             this.flowLayoutPanel1.TabIndex = 0;
             // 
@@ -256,7 +256,7 @@ namespace OrderWinForm
             "货物名称",
             "总金额"});
             this.listQueryWay.Location = new System.Drawing.Point(24, 24);
-            this.listQueryWay.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.listQueryWay.Margin = new System.Windows.Forms.Padding(4);
             this.listQueryWay.Name = "listQueryWay";
             this.listQueryWay.Size = new System.Drawing.Size(146, 52);
             this.listQueryWay.TabIndex = 0;
@@ -273,7 +273,7 @@ namespace OrderWinForm
             // queryButton
             // 
             this.queryButton.Location = new System.Drawing.Point(440, 30);
-            this.queryButton.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
+            this.queryButton.Margin = new System.Windows.Forms.Padding(10);
             this.queryButton.Name = "queryButton";
             this.queryButton.Size = new System.Drawing.Size(160, 40);
             this.queryButton.TabIndex = 2;
@@ -284,7 +284,7 @@ namespace OrderWinForm
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(620, 30);
-            this.button1.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
+            this.button1.Margin = new System.Windows.Forms.Padding(10);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(160, 40);
             this.button1.TabIndex = 3;
@@ -295,7 +295,7 @@ namespace OrderWinForm
             // updateButton
             // 
             this.updateButton.Location = new System.Drawing.Point(800, 30);
-            this.updateButton.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
+            this.updateButton.Margin = new System.Windows.Forms.Padding(10);
             this.updateButton.Name = "updateButton";
             this.updateButton.Size = new System.Drawing.Size(160, 40);
             this.updateButton.TabIndex = 4;
@@ -306,7 +306,7 @@ namespace OrderWinForm
             // addButton
             // 
             this.addButton.Location = new System.Drawing.Point(980, 30);
-            this.addButton.Margin = new System.Windows.Forms.Padding(10, 10, 10, 10);
+            this.addButton.Margin = new System.Windows.Forms.Padding(10);
             this.addButton.Name = "addButton";
             this.addButton.Size = new System.Drawing.Size(160, 40);
             this.addButton.TabIndex = 5;
@@ -365,7 +365,7 @@ namespace OrderWinForm
             this.ClientSize = new System.Drawing.Size(1284, 780);
             this.Controls.Add(this.panelAll);
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.panelAll.ResumeLayout(false);

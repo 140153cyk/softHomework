@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderWinForm", "OrderWinForm\OrderWinForm.csproj", "{FEDB76BC-C61A-45AE-9313-9D93D21BB71E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{88FC4B86-5107-41C0-A446-C77A76C0356D} = {88FC4B86-5107-41C0-A446-C77A76C0356D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderPro", "OrderPro\OrderPro.csproj", "{88FC4B86-5107-41C0-A446-C77A76C0356D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDB76BC-C61A-45AE-9313-9D93D21BB71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDB76BC-C61A-45AE-9313-9D93D21BB71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDB76BC-C61A-45AE-9313-9D93D21BB71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDB76BC-C61A-45AE-9313-9D93D21BB71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FC4B86-5107-41C0-A446-C77A76C0356D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FC4B86-5107-41C0-A446-C77A76C0356D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FC4B86-5107-41C0-A446-C77A76C0356D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FC4B86-5107-41C0-A446-C77A76C0356D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46248FE2-7C31-41F4-B564-292936F34745}
+	EndGlobalSection
+EndGlobal
