@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OrderWinForm"
   ],
-  "SelectedNode": "\\第六次作业.sln",
+  "SelectedNode": "\\OrderWinForm\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

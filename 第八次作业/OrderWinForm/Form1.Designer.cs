@@ -239,11 +239,11 @@ namespace OrderWinForm
             this.flowLayoutPanel1.Controls.Add(this.updateButton);
             this.flowLayoutPanel1.Controls.Add(this.addButton);
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(30, 78);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(30, 69);
             this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(20);
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(1312, 148);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(1312, 157);
             this.flowLayoutPanel1.TabIndex = 0;
             // 
             // listQueryWay
@@ -324,7 +324,7 @@ namespace OrderWinForm
             this.editToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(30, 30);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1312, 48);
+            this.menuStrip1.Size = new System.Drawing.Size(1312, 39);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
